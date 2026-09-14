@@ -42,6 +42,7 @@ product-design-skill/
     |-- 12-excellent-case-library.md
     |-- 13-nudge.md
     |-- 14-source-map.md
+    |-- 15-ued-ui-visual-review.md
     `-- README.md
 ```
 
@@ -77,4 +78,3 @@ cp -R product-design-skill ~/.codex/skills/product-design
 ## 开源协议
 
 本项目使用 MIT License 开源。
-

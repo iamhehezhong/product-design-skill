@@ -110,6 +110,16 @@
 - Amershi et al., Guidelines for Human-AI Interaction, CHI 2019  
   https://www.microsoft.com/en-us/research/publication/guidelines-for-human-ai-interaction/
 
+## 本地补充资料
+
+- `产品事业部UED-UIUE设计原则与评估标准/1-核心设计原则.xlsx`
+- `产品事业部UED-UIUE设计原则与评估标准/2-产品事业部UED-设计原则详解.pdf`
+- `产品事业部UED-UIUE设计原则与评估标准/3-产品事业部UI检查标准与常见问题.pdf`
+- `产品事业部UED-UIUE设计原则与评估标准/4-产品事业部UI元素快速自查清单.xlsx`
+- `产品事业部UED-UIUE设计原则与评估标准/5-系统界面视觉交互体验估标准1.0-241225（2024年试点执行）.xlsx`
+
+以上资料已归并为 [15-ued-ui-visual-review.md](15-ued-ui-visual-review.md)。使用时以现有 skill 的基础原则、专业术语规则和评分体系为准，附件只提供执行层面的补充细节。
+
 ## 后续建议补充的案例来源
 
 建议逐步收集：

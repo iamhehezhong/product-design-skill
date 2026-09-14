@@ -36,6 +36,7 @@ For reviewing imported or existing design artifacts:
 - Read [references/13-nudge.md](references/13-nudge.md) if the artifact contains defaults, ranking, recommendations, upgrade paths, cancellation, onboarding, pricing, consent, or any choice architecture.
 - Read [references/05-ai-product-interaction.md](references/05-ai-product-interaction.md) if the artifact contains AI behavior or AI-generated outputs.
 - 当评审对象涉及流程、组件、页面层级、视觉风格、美学、人性、移动端、App、iOS、Apple 美学或 HIG 质量标准时，读取 [references/04-interaction-visual-aesthetics.md](references/04-interaction-visual-aesthetics.md)。
+- 当评审对象涉及 UI 视觉还原、元素级检查、字体、颜色、间距、对齐、内容尺寸、组件选型、适配验收或开发/测试走查时，读取 [references/15-ued-ui-visual-review.md](references/15-ued-ui-visual-review.md)。
 - Use [references/09-design-output-templates.md](references/09-design-output-templates.md) for the review format when useful.
 
 For collecting or expanding examples:
