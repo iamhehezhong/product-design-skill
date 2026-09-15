@@ -23,6 +23,7 @@ description: 创建产品交互设计，并依据用户的设计原则评审文�
 - 当设计需要理论依据时，阅读 [references/02-classic-theories.md](references/02-classic-theories.md)。
 - 当设计涉及默认值、推荐、选择、价格、引导、提醒、行为改变、转化、留存或决策引导时，阅读 [references/13-nudge.md](references/13-nudge.md)。
 - 当需要选择流程、组件、交互模式、布局、视觉层级、美学方向、移动端体验、Apple/iOS 风格或 App 设计质量时，阅读 [references/04-interaction-visual-aesthetics.md](references/04-interaction-visual-aesthetics.md)。
+- 当设计涉及页面布局、配色、色系、品牌色、语义色、中性色、图表色、设计 Token、浅色/深色模式或设计系统选型时，阅读 [references/16-color-layout-theory.md](references/16-color-layout-theory.md)。
 - 当产品类型匹配 AI 生成、工作台、管理后台、创作工具、计费、上传转化、内容或效率工具等常见模式时，读取 [references/06-product-type-patterns.md](references/06-product-type-patterns.md)。
 - 当产品包含 AI、智能体、自动化、生成、分析、推荐或对话式界面时，阅读 [references/05-ai-product-interaction.md](references/05-ai-product-interaction.md)。
 - 当用户需要结构化交付物、设计评审、页面诊断、线框图、交互原型、组件清单或 HTML 原型时，读取 [references/09-design-output-templates.md](references/09-design-output-templates.md)。
@@ -37,6 +38,7 @@ description: 创建产品交互设计，并依据用户的设计原则评审文�
 - 当设计成果包含 AI 行为或 AI 生成内容时，阅读 [references/05-ai-product-interaction.md](references/05-ai-product-interaction.md)。
 - 当评审对象涉及流程、组件、页面层级、视觉风格、美学、人性、移动端、App、iOS、Apple 美学或 HIG 质量标准时，读取 [references/04-interaction-visual-aesthetics.md](references/04-interaction-visual-aesthetics.md)。
 - 当评审对象涉及 UI 视觉还原、元素级检查、字体、颜色、间距、对齐、内容尺寸、组件选型、适配验收或开发/测试走查时，读取 [references/15-ued-ui-visual-review.md](references/15-ued-ui-visual-review.md)。
+- 当评审对象涉及布局合理性、色彩体系、颜色语义、品牌色使用、对比度、数据可视化配色、设计 Token、浅色/深色模式或多端适配时，读取 [references/16-color-layout-theory.md](references/16-color-layout-theory.md)。
 - 在合适时，使用 [references/09-design-output-templates.md](references/09-design-output-templates.md)中的评审格式。
 
 ### 收集或扩展案例

@@ -91,6 +91,36 @@
 - Material Design  
   https://m3.material.io/
 
+- Material Design 3, Color  
+  https://m3.material.io/styles/color/overview
+
+- Material Design 3, Canonical layout examples  
+  https://m3.material.io/foundations/layout/canonical-examples/overview
+
+- Apple Human Interface Guidelines, Color  
+  https://developer.apple.com/design/human-interface-guidelines/color
+
+- Apple Human Interface Guidelines, Layout  
+  https://developer.apple.com/design/human-interface-guidelines/layout
+
+- Apple Human Interface Guidelines, Branding  
+  https://developer.apple.com/design/human-interface-guidelines/branding
+
+- Ant Design, Colors  
+  https://ant.design/docs/spec/colors/
+
+- Microsoft Fluent 2, Color  
+  https://fluent2.microsoft.design/color
+
+- IBM Design Language, Color  
+  https://www.ibm.com/design/language/color/
+
+- IBM Design Language, 2x Grid  
+  https://www.ibm.com/design/language/2x-grid/
+
+- Figma, Overview of variables, collections, and modes  
+  https://help.figma.com/hc/en-us/articles/14506821864087-Overview-of-variables-collections-and-modes
+
 ### 无障碍
 
 - W3C, Web Content Accessibility Guidelines (WCAG) 2.2  

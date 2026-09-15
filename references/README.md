@@ -30,6 +30,7 @@
 - `13-nudge.md`：《助推》的选择架构、行为洞察、伦理边界与产品应用。
 - `14-source-map.md`：权威资料来源索引。
 - `15-ued-ui-visual-review.md`：产品事业部 UED/UIUE 资料的中文执行细化，包含 UI 元素检查、适配、组件选型、走查流程和问题记录模板。
+- `16-color-layout-theory.md`：色彩、色系、布局、设计 Token、可访问性、企业系统、移动 App 和数据可视化配色的操作性原则。
 
 ## 使用方式
 
@@ -40,3 +41,4 @@
 - 输出模板已统一到 `09-design-output-templates.md`。
 - 案例参照已统一到 `12-excellent-case-library.md`，新增案例按 `11-case-library-template.md` 记录。
 - 交互模式、通用视觉规范、美学与人性、Apple / iOS App 美学已统一到 `04-interaction-visual-aesthetics.md`。该文件作为界面体验设计的主资料，避免交互、视觉、美学分散在多个文件中重复维护。
+- 色彩、色系、布局和设计系统方法已统一到 `16-color-layout-theory.md`。涉及颜色和布局的设计或评审，应先使用该文件，再映射到现有评分体系。
